@@ -1,0 +1,67 @@
+[
+    {
+        
+        "idProduit": 1,
+        "imageProduit": "assets/img/grodoudou_gx.jpeg",
+        "nomProduit": "Grodoudou",
+        "prixProduit": "60€"
+
+    },
+    {
+        
+        "idProduit": 2,
+        "imageProduit": "assets/img/heatran_gx.jpg",
+        "nomProduit": "Heatran",
+        "prixProduit": "35€"
+
+    },
+    {
+        
+        "idProduit": 3,
+        "imageProduit": "assets/img/leviator_gx.jpg",
+        "nomProduit": "Leviator",
+        "prixProduit": "80€"
+
+    },
+    {
+        
+        "idProduit": 4,
+        "imageProduit": "assets/img/necrozma_gx.jpg",
+        "nomProduit": "Necrozma",
+        "prixProduit": "35€"
+
+    },
+    {
+        
+        "idProduit": 5,
+        "imageProduit": "assets/img/dracaufeu_gx.jpg",
+        "nomProduit": "Dracaufeu",
+        "prixProduit": "100€"
+
+    },
+    {
+        
+        "idProduit": 6,
+        "imageProduit": "assets/img/raichu_gx.jpg",
+        "nomProduit": "Raichu",
+        "prixProduit": "60€"
+
+    },
+    {
+        
+        "idProduit": 7,
+        "imageProduit": "assets/img/mewtwo_gx.png",
+        "nomProduit": "Mewtwo",
+        "prixProduit": "150€"
+
+    },
+    {
+        
+        "idProduit": 8,
+        "imageProduit": "assets/img/onix_gx.jpeg",
+        "nomProduit": "Onix",
+        "prixProduit": "40€"
+
+    }
+]
+

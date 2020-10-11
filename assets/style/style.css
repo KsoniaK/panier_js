@@ -1,0 +1,136 @@
+@font-face{
+    font-family: pokemon;
+    src: url(../fonts/pokemon/Pokemon\ Hollow.ttf)
+}
+
+/*LOGO*/
+#div_logo{
+    display: flex;
+    justify-content: center;
+}
+/*ICI LE H1*/
+#titrePage{
+    font-size: 3em;
+    text-align: center;
+    font-family: "pokemon", "serif";
+    margin: 0;
+    color: #ffcc03;
+}
+
+/*ICI LA DIV PANIER*/
+#panier{
+/*    border: 2px solid fuchsia; */
+    margin-right: 2rem;
+    display: flex;
+    justify-content: flex-end;
+}
+#boutton{
+    display: none;
+}
+#imagePanier{
+    width: 3rem;
+    margin-top: 2rem;
+}
+
+/*ICI LA SECTION*/
+#fiche_produit{
+/*    border: 2px solid green; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+}
+
+/*LES ARTICLES*/
+#article,
+#articleDeux,
+#articleTrois,
+#articleQuatre,
+#articleCinq,
+#articleSix,
+#articleSept,
+#articleHuit{
+/*    border: 2px solid tomato; */
+    margin-top: 3rem;
+    box-shadow: 10px 5px 15px red;
+    border-radius: .5rem;
+}
+
+/*LES IMG*/
+#img,
+#imgDeux,
+#imgTrois,
+#imgQuatre,
+#imgCinq,
+#imgSix,
+#imgSept,
+#imgHuit{
+    width: 17rem;
+}
+
+/*LES P*/
+#prix,
+#prixDeux,
+#prixTrois,
+#prixQuatre,
+#prixCinq,
+#prixSix,
+#prixSept,
+#prixHuit{
+/*    border: 2px solid firebrick; */
+    font-weight: bold;
+}
+
+/*LES BOUTONS*/
+#valider,
+#validerDeux,
+#validerTrois,
+#validerQuatre,
+#validerCinq,
+#validerSix,
+#validerSept,
+#validerHuit{
+/*    border: 2px solid black; */
+    border-radius: .3rem ;
+    background-color: #ffcc03;
+    margin-bottom: 1rem;
+}
+
+
+#recapitulatif{
+/*    border: 2px solid mediumaquamarine; */
+    text-align: center;
+    margin: 4rem;
+}
+#prixAvantRemise{
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+#remise{
+    color: red;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+#prixApresRemise{
+    font-weight: bold;
+    color: green;
+    font-size: 1.5rem;
+}
+#ajout{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #ffcc03;
+    flex-wrap: wrap;
+}
+#ajout img{
+    width: 5rem;
+}
+
+
+/*----------------------------------------------------------------------------*/
+
+.article_json img{
+    width: 20%;
+}
